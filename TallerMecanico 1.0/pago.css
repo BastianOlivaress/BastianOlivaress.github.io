@@ -1,0 +1,177 @@
+.pago-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pago-desktop4 {
+  gap: 80px;
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(7, 7, 7, 1);
+}
+.pago-frame14 {
+  gap: 372px;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  padding: 0 80px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.pago-frame13 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.pago-vector {
+  width: 32px;
+  height: 24px;
+}
+.pago-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-frame15 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+}
+.pago-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 80px;
+  font-size: 16px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-text04 {
+  color: rgba(255, 255, 255, 1);
+  width: 80px;
+  font-size: 16px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-frame16 {
+  gap: 80px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.pago-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-frame22 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.pago-frame20 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pago-text08 {
+  color: rgba(7, 7, 7, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-image1 {
+  width: 152px;
+  height: 40px;
+}
+.pago-navlink {
+  display: contents;
+}
+.pago-frame21 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pago-text10 {
+  color: rgba(7, 7, 7, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pago-framecard {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pago-vector1 {
+  top: 4.5px;
+  left: 1.875px;
+  width: 20px;
+  height: 15px;
+  position: absolute;
+}
